@@ -1,0 +1,4 @@
+id_curso,precio,cupos,id_profesor,nombre_curso,nivel
+101,150000,30,10,Programacion Python,Basico
+102,200000,25,10,Bases de Datos,Intermedio
+103,180000,20,11,Calculo Aplicado,Avanzado

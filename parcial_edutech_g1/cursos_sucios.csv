@@ -1,0 +1,4 @@
+id_curso,curso_info,precio,cupos,id_profesor
+101,Programacion Python - Basico,150000,30,10
+102,Bases de Datos - Intermedio,200000,25,10
+103,Calculo Aplicado - Avanzado,180000,20,11
